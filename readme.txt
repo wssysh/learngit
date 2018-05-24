@@ -4,4 +4,4 @@ This is a text to learn Git.
 Git has a mutable index called stage.
 test the git diff
 Git tracks changes of files.
-My stupid boss still prefers SVN.
+(deleted)My stupid boss still prefers SVN.
